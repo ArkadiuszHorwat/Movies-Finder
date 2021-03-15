@@ -1,10 +1,10 @@
 ## Web application to searching movies.
-<h2>Created with:</h2>
+<h4>Created with:</h4>
 <br>
-<li>
-    <ul>- React</ul><br>
-    <ul>- API movies</ul><br>
-    <ul>- API search</ul><br>
-</li>
+<ul>
+    <li> React</li><br>
+    <li> API movies</li><br>
+    <li> API search</li><br>
+</ul>
 <br>
 <p>Project created to learn React. Inspired by youtube tutorials.</p>
