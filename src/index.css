@@ -33,6 +33,10 @@ header{
   margin-right: 3rem;
 }
 
+.search::-webkit-search-cancel-button{
+  -webkit-appearance: none;
+}
+
 .movie{
   background-color: rgba(99, 110, 114, 0.5);
   width: 250px;
@@ -76,4 +80,20 @@ header{
 
 .movie:hover .movie-overview{
   transform: translateY(0%);
+}
+
+.vote{
+  background-color: #2d3436;
+  padding: 0.5rem;
+  border-radius: 0.7rem;
+  font-weight: bold;
+}
+.vote.gold{
+  color: gold;
+}
+.vote.silver{
+  color: silver;
+}
+.vote.bronze{
+  color: brown;
 }
