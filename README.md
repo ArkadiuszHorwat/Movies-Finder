@@ -1,7 +1,10 @@
 ## Web application to searching movies.
-Created with: <br>
-    -   React <br>
-    -   API movies <br>
-    -   API search  <br>
-
-Project created by Arkadiusz Horwat to learn React. Inspired by youtube tutorials.
+<h2>Created with:</h2>
+<br>
+<li>
+    <ul>- React</ul><br>
+    <ul>- API movies</ul><br>
+    <ul>- API search</ul><br>
+</li>
+<br>
+<p>Project created to learn React. Inspired by youtube tutorials.</p>
